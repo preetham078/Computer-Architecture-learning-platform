@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/chipvisual.tsx","./src/components/sectionshell.tsx","./src/components/sidebar.tsx","./src/data/quiz.ts","./src/data/topics.ts","./src/data/viva.ts","./src/hooks/uselocalstorage.ts"],"version":"5.9.3"}
